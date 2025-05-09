@@ -2,9 +2,8 @@
   "private": true,
 "scripts": {
   "build": "next build",
-  "dev": "next dev --turbopack",
-  "start": "next start",
-  "postinstall": "node node_modules/.pnpm/bcrypt@5.1.1/node_modules/bcrypt/scripts/install.js"
+  "dev": "next dev",
+  "start": "next start"
 },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
