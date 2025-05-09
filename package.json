@@ -1,9 +1,9 @@
 {
   "private": true,
 "scripts": {
-  "build": "pnpm run build",
-  "dev": "pnpm dev",
-  "start": "pnpm start"
+  "build": "next run build",
+  "dev": "next dev",
+  "start": "next start"
 },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
